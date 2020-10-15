@@ -2,7 +2,7 @@
 
 Machine Learning And Neural Network Exploration With TensorFlow
 
-## Challenge Analysis
+## Exploratory Analysis
 
 A custom machine learning and neural network model was implemented to predict the success of a venture paid by Alphabet Soup.  The model was based on existing data for AS's prior charitable contribution outcomes with success/fail details included.
 
